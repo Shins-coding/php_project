@@ -53,7 +53,7 @@ function get_tax_due(float $price, int $qty, int $tax = 0): float {
 <head>
     <meta charset="UTF-8">
     <title>MenTech Mobile Store</title>
-    <link rel="stylesheet" href="css/stocks.css">
+    <link rel="stylesheet" href="Store/stocks.css">
 </head>
 <body>
     <div class="nav">
@@ -100,3 +100,4 @@ foreach ($phoneStore as $product_name => $data) {
 
 </body>
 </html>
+
