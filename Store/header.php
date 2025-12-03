@@ -12,8 +12,10 @@
             <ul>
                 <li><a href="home.php">Home</a></li>
                 <li><a href="phones.php">Phones</a></li>
+                <li><a href="stocks.php">Stocks</a></li>
             </ul>
         </div>
     </div>
     <div class="bg">
         <div class="card">
+
